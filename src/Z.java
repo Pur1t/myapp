@@ -1,5 +1,5 @@
 public class Z {
-    public Z(String name) {
-        System.out.println("Hello " + name);
+    public Z() {
+        System.out.println("Class Z initiated");
     }
 }
